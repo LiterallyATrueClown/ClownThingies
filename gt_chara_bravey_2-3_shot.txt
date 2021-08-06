@@ -1,0 +1,87 @@
+for i,v in pairs(game.ReplicatedStorage.RemoteSecurity:GetChildren()) do
+    v.Name="Noob"..i
+end
+
+local player = game.Players.LocalPlayer
+local character = player.Character
+local remote = game.ReplicatedStorage.Remotes["CharaMoves"]
+local security = game.ReplicatedStorage.RemoteSecurity["Noob382"]
+
+local hitcolor = "Random"
+local hitrate = 1000
+local hitcd = 0
+
+--[[COLOR LIST:
+KnifeProjectileDarkRed, KnifeProjectilePurple, KnifeProjectileYellow, KnifeProjectileOrange
+
+PS color affects damage too and DarkRed deals most damage
+Set to Random if you want it tqeo pick them randomly (it looks insanely cool)
+
+Hitrate is the amount of hits per attack
+Hitcd is the rate at which it attacks (in seconds)
+]]
+
+
+local function Closest(where)
+    local dist = 10
+    local gotem = {}
+    for i,v in pairs(workspace:GetChildren()) do
+        if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") then
+            if ((v.HumanoidRootPart.Position - where).magnitude <= dist) then
+                if not gotem[v.Name] then
+                   gotem[v.Name] = v
+                end
+            end
+        end
+    end
+    return gotem
+end
+
+local function Track(proj)
+    local cd = {}
+    repeat
+        game:GetService("RunService").Heartbeat:Wait()
+        local obtained = Closest(proj.Position)
+        if obtained then
+            for i,v in pairs(obtained) do
+                if not cd[v.Name] then
+                    cd[v.Name] = true
+                    delay(hitcd, function()
+                        cd[v.Name] = false
+                    end)
+                    
+                    for i=1,hitrate do
+                        spawn(function()
+                            if proj:FindFirstChild("Hitted") then
+                                local colorchoice = hitcolor
+                                if hitcolor == "Random" then
+                                    local colors = {"KnifeProjectileDarkRed","KnifeProjectilePurple","KnifeProjectileYellow","KnifeProjectileOrange"}
+                                    colorchoice = colors[Random.new():NextInteger(1,#colors)]
+                                end
+                                remote:InvokeServer({security,colorchoice,"Hit",proj,v.HumanoidRootPart.CFrame,v.HumanoidRootPart})
+                            end
+                        end)
+                    end
+                end
+            end
+        end
+    until not (proj.Parent == character.Attacks)
+end
+
+local atkcon = character.Attacks.ChildAdded:Connect(function(what)
+    if string.sub(what.Name,1,20) == "KnifeSlashProjectile" then
+        Track(what)
+    end
+end)
+
+local uis = game:GetService("UserInputService")
+local con
+con = uis.InputBegan:Connect(function(inputs, gse)
+    if not gse then
+        local keycode = inputs.KeyCode
+        if keycode == Enum.KeyCode.G then
+            atkcon:Disconnect()
+            con:Disconnect()
+        end
+    end
+end)

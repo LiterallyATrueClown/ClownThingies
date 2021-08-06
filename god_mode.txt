@@ -1,0 +1,23 @@
+    while wait() do
+                local args = {
+                    [1] = {
+                        [1] = getrenv()._G.Pass,
+                        [2] = "InvFrames",
+                        [3] = 4.5
+                    }
+                }
+
+                game:GetService("ReplicatedStorage").Remotes.Events:FireServer(unpack(args))
+    for tryhard,mode in pairs(game:service("Players").LocalPlayer.character.HumanoidRootPart:GetChildren()) do
+        if mode.Name == "Server" then
+            mode.Name = "no"
+            mode:Destroy()
+    end
+    end
+    for i,v in pairs(game:service("Players").LocalPlayer.character:GetChildren()) do
+        if v.Name == "Hit" then
+            v.Name = "ae"
+            v:Destroy()
+        end
+    end
+    end

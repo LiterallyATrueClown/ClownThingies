@@ -1,0 +1,1216 @@
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda Muda Muda Muda", 
+                [4] = Color3.new(0,255,100)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "BurstEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(0, -50, 0),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+                                                                local A_1 =  
+            {
+                [1] = getrenv()._G.Pass,
+                [2] = "Chatted", 
+                [3] = "Muda MUDA!", 
+                [4] = Color3.new(255,255,0)
+            }
+        local Event = game:GetService("ReplicatedStorage").Remotes.Events
+        Event:FireServer(A_1)
+        local Anim = Instance.new("Animation")
+        Anim.AnimationId = "rbxassetid://4920871999"
+        local k = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
+        k:Play()
+        k:AdjustSpeed(2)
+        local args = { 
+            [1] = getrenv()._G.Pass,
+            [2] = game:service("Players").LocalPlayer.Backpack.Main.LockOnScript.LockOn.Value,
+            [3] = {
+                ["Type"] = "Knockback",
+                ["HitEffect"] = "HeavyHitEffect",
+                ["HurtAnimation"] = game:GetService("ReplicatedStorage").Animations.HurtAnimations.Knockback2,
+                ["Velocity"] = Vector3.new(200, 0, -200),
+                ["HitTime"] = 2.5,
+                ["CombatInv"] = true,
+                ["Sound"] = game:GetService("ReplicatedStorage").Sounds.Knockback,
+                ["Damage"] = 40
+            }
+        }
+
+
+        game:GetService("ReplicatedStorage").Remotes.Damage:InvokeServer(unpack(args))
+
+
