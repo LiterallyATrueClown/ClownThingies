@@ -8,7 +8,7 @@ local remote = game.ReplicatedStorage.Remotes["CharaMoves"]
 local security = game.ReplicatedStorage.RemoteSecurity["Noob382"]
 
 local hitcolor = "Random"
-local hitrate = 1000
+local hitrate = 300
 local hitcd = 0
 
 --[[COLOR LIST:
