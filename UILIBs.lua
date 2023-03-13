@@ -193,7 +193,7 @@
         local UserImage = Instance.new("ImageLabel")
         UserImage.Name = "UserImage"
         UserImage.Parent = User
-        UserImage.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
+        UserImage.BackgroundColor3 = Color3.fromRGB(255, 100, 255)
         UserImage.Position = UDim2.new(0, 10, 0, 9)
         UserImage.Size = UDim2.new(0, 25, 0, 25)
         UserImage.Image = "https://www.roblox.com/headshot-thumbnail/image?userId="..game.Players.LocalPlayer.UserId.."&width=420&height=420&format=png"
@@ -262,7 +262,7 @@
             PageButton.AutoButtonColor = false
             PageButton.Font = Enum.Font.GothamSemibold
             PageButton.Text = text
-            PageButton.TextColor3 = Color3.fromRGB(225, 225, 225)
+            PageButton.TextColor3 = Color3.fromRGB(255, 100, 255)
             PageButton.TextSize = 11.000
             PageButton.TextXAlignment = Enum.TextXAlignment.Left
             
@@ -321,13 +321,13 @@
                         TweenService:Create(
                             v,
                             TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                            {TextColor3 = Color3.fromRGB(225, 225, 225)}
+                            {TextColor3 = Color3.fromRGB(255, 100, 255)}
                         ):Play()
                     end
                     TweenService:Create(
                         PageButton,
                         TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                        {TextColor3 = Color3.fromRGB(255,0,0)}
+                        {TextColor3 = Color3.fromRGB(0, 255, 255)}
                     ):Play()
                 end
             end)
@@ -336,7 +336,7 @@
                 TweenService:Create(
                     PageButton,
                     TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                    {TextColor3 = Color3.fromRGB(255,0,0)}
+                    {TextColor3 = Color3.fromRGB(0, 255, 255)}
                 ):Play()
                 for i,v in next, TabFolder:GetChildren() do 
                     if v.Name == "MainTab" then
@@ -368,7 +368,7 @@
                 Button.AutoButtonColor = false
                 Button.Font = Enum.Font.Gotham
                 Button.Text = text
-                Button.TextColor3 = Color3.fromRGB(225, 225, 225)
+                Button.TextColor3 = Color3.fromRGB(255, 100, 255)
                 Button.TextSize = 11.000
                 Button.TextWrapped = true
                 
@@ -381,7 +381,7 @@
                     TweenService:Create(
                         Button,
                         TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                        {TextColor3 = Color3.fromRGB(255,0,0)}
+                        {TextColor3 = Color3.fromRGB(0, 255, 255)}
                     ):Play()
                 end)
                 
@@ -389,7 +389,7 @@
                     TweenService:Create(
                         Button,
                         TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                        {TextColor3 = Color3.fromRGB(225, 225, 225)}
+                        {TextColor3 = Color3.fromRGB(255, 100, 255)}
                     ):Play()
                 end)
                 
@@ -434,7 +434,7 @@
                 ToggleLabel.Size = UDim2.new(0, 410, 0, 30)
                 ToggleLabel.Font = Enum.Font.Gotham
                 ToggleLabel.Text = text
-                ToggleLabel.TextColor3 = Color3.fromRGB(225, 225, 225)
+                ToggleLabel.TextColor3 = Color3.fromRGB(255, 100, 255)
                 ToggleLabel.TextSize = 11.000
                 ToggleLabel.TextXAlignment = Enum.TextXAlignment.Left
     
@@ -453,7 +453,7 @@
                 ToggleImage2.Name = "ToggleImage2"
                 ToggleImage2.Parent = ToggleImage
                 ToggleImage2.AnchorPoint = Vector2.new(0.5, 0.5)
-                ToggleImage2.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                ToggleImage2.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 ToggleImage2.Position = UDim2.new(0, 10, 0, 10)
                 ToggleImage2.Visible = false
     
@@ -466,7 +466,7 @@
                     TweenService:Create(
                         ToggleLabel,
                         TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                        {TextColor3 = Color3.fromRGB(255,0,0)}
+                        {TextColor3 = Color3.fromRGB(0, 255, 255)}
                     ):Play()
                 end)
     
@@ -474,7 +474,7 @@
                     TweenService:Create(
                         ToggleLabel,
                         TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
-                        {TextColor3 = Color3.fromRGB(225, 225, 225)}
+                        {TextColor3 = Color3.fromRGB(255, 100, 255)}
                     ):Play()
                 end)
                 if config == nil then config = false end
@@ -525,7 +525,7 @@
                 TextboxTitle.Size = UDim2.new(0, 300, 0, 30)
                 TextboxTitle.Font = Enum.Font.Gotham
                 TextboxTitle.Text = text
-                TextboxTitle.TextColor3 = Color3.fromRGB(225, 225, 225)
+                TextboxTitle.TextColor3 = Color3.fromRGB(255, 100, 255)
                 TextboxTitle.TextSize = 11.000
                 TextboxTitle.TextXAlignment = Enum.TextXAlignment.Left
     
@@ -536,7 +536,7 @@
                 Textbox.Size = UDim2.new(0, 140, 0, 20)
                 Textbox.Font = Enum.Font.Gotham
                 Textbox.Text = holder
-                Textbox.TextColor3 = Color3.fromRGB(225, 225, 225)
+                Textbox.TextColor3 = Color3.fromRGB(255, 100, 255)
                 Textbox.TextSize = 11.000
     
                 Textbox.FocusLost:Connect(function()
@@ -593,7 +593,7 @@
                 Droptitle.Size = UDim2.new(0, 410, 0, 30)
                 Droptitle.Font = Enum.Font.Gotham
                 Droptitle.Text = text.." : "
-                Droptitle.TextColor3 = Color3.fromRGB(225, 225, 225)
+                Droptitle.TextColor3 = Color3.fromRGB(255, 100, 255)
                 Droptitle.TextSize = 11.000
                 Droptitle.TextXAlignment = Enum.TextXAlignment.Left
     
@@ -638,7 +638,7 @@
                     DropButton2.Size = UDim2.new(0, 455, 0, 30)
                     DropButton2.AutoButtonColor = false
                     DropButton2.Font = Enum.Font.Gotham
-                    DropButton2.TextColor3 = Color3.fromRGB(225, 225, 225)
+                    DropButton2.TextColor3 = Color3.fromRGB(255, 100, 255)
                     DropButton2.TextSize = 11.000
                     DropButton2.Text = tostring(v)
     
@@ -646,14 +646,14 @@
                         TweenService:Create(
                             DropButton2,
                             TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-                            {TextColor3 = Color3.fromRGB(255,0,0)}
+                            {TextColor3 = Color3.fromRGB(0, 255, 255)}
                         ):Play()
                     end)
                     DropButton2.MouseLeave:Connect(function()
                         TweenService:Create(
                             DropButton2,
                             TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-                            {TextColor3 = Color3.fromRGB(225, 225, 225)}
+                            {TextColor3 = Color3.fromRGB(255, 100, 255)}
                         ):Play()
                     end)
     
@@ -732,7 +732,7 @@
                     DropButton2.Size = UDim2.new(0, 455, 0, 30)
                     DropButton2.AutoButtonColor = false
                     DropButton2.Font = Enum.Font.Gotham
-                    DropButton2.TextColor3 = Color3.fromRGB(225, 225, 225)
+                    DropButton2.TextColor3 = Color3.fromRGB(255, 100, 255)
                     DropButton2.TextSize = 11.000
                     DropButton2.Text = tostring(t)
     
@@ -788,7 +788,7 @@
                 SliderTitle.Size = UDim2.new(0, 290, 0, 20)
                 SliderTitle.Font = Enum.Font.Gotham
                 SliderTitle.Text = text
-                SliderTitle.TextColor3 = Color3.fromRGB(225, 225, 225)
+                SliderTitle.TextColor3 = Color3.fromRGB(255, 100, 255)
                 SliderTitle.TextSize = 11.000
                 SliderTitle.TextXAlignment = Enum.TextXAlignment.Left
     
@@ -800,7 +800,7 @@
                 SliderValue.Size = UDim2.new(0, 40, 0, 20)
                 SliderValue.Font = Enum.Font.Gotham
                 SliderValue.Text =  tostring(set and math.floor( (set / max) * (max - min) + min) or 0)
-                SliderValue.TextColor3 = Color3.fromRGB(225, 225, 225)
+                SliderValue.TextColor3 = Color3.fromRGB(255, 100, 255)
                 SliderValue.TextSize = 11.000
     
                 SliderButton.Name = "SliderButton"
@@ -822,7 +822,7 @@
     
                 Bar.Name = "Bar"
                 Bar.Parent = Bar1
-                Bar.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                Bar.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 Bar.Size = UDim2.new(set/max, 0, 0, 5)
     
                 UICorner_2.CornerRadius = UDim.new(0, 100)
@@ -902,7 +902,7 @@
     
                 Sep1.Name = "Sep1"
                 Sep1.Parent = Seperator
-                Sep1.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                Sep1.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 Sep1.BorderSizePixel = 0
                 Sep1.Position = UDim2.new(0, 0, 0, 10)
                 Sep1.Size = UDim2.new(0, 150, 0, 1)
@@ -915,12 +915,12 @@
                 SepLabel.Size = UDim2.new(0, 255, 0, 20)
                 SepLabel.Font = Enum.Font.Gotham
                 SepLabel.Text = text
-                SepLabel.TextColor3 = Color3.fromRGB(225,225,225)
+                SepLabel.TextColor3 = Color3.fromRGB(0, 255, 255)
                 SepLabel.TextSize = 11.000
     
                 Sep2.Name = "Sep2"
                 Sep2.Parent = Seperator
-                Sep2.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                Sep2.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 Sep2.BorderSizePixel = 0
                 Sep2.Position = UDim2.new(0, 305, 0, 10)
                 Sep2.Size = UDim2.new(0, 150, 0, 1)
@@ -931,14 +931,14 @@
     
                 Line.Name = "Line"
                 Line.Parent = ScrollTab
-                Line.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+                Line.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 Line.BackgroundTransparency = 1.000
                 Line.ClipsDescendants = true
                 Line.Size = UDim2.new(0, 455, 0, 20)
     
                 Linee.Name = "Linee"
                 Linee.Parent = Line
-                Linee.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                Linee.BackgroundColor3 = Color3.fromRGB(255,100,255)
                 Linee.BorderSizePixel = 0
                 Linee.Position = UDim2.new(0, 0, 0, 10)
                 Linee.Size = UDim2.new(0, 455, 0, 1)
@@ -950,11 +950,11 @@
         
                 Label.Name = "Label"
                 Label.Parent = ScrollTab
-                Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+                Label.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
                 Label.BackgroundTransparency = 1.000
                 Label.Size = UDim2.new(0, 455, 0, 20)
                 Label.Font = Enum.Font.Gotham
-                Label.TextColor3 = Color3.fromRGB(225, 225, 225)
+                Label.TextColor3 = Color3.fromRGB(0, 225, 225)
                 Label.TextSize = 11.000
                 Label.Text = text
                 Label.TextXAlignment = Enum.TextXAlignment.Left
