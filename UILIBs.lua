@@ -1,6 +1,4 @@
-local t = 10;
-local r = math.random() * t 
-local rainbow
+local rainbow = loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyATrueClown/ClownThingies/main/RainbowReturner.lua", true))()  
     do
         local ui = game.CoreGui:FindFirstChild("UlLib")
         if ui then
