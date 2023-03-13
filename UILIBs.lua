@@ -1,4 +1,4 @@
-local rainbow = loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyATrueClown/ClownThingies/main/RainbowReturner.lua", true))()  
+local rainbow = Color3.fromRGB(0,255,150)  
     do
         local ui = game.CoreGui:FindFirstChild("UlLib")
         if ui then
