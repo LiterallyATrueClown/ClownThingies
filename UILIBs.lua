@@ -114,7 +114,7 @@ local rainbow = Color3.fromRGB(0,255,150)
         NameHub.Size = UDim2.new(0, 110, 0, 20)
         NameHub.Font = Enum.Font.GothamSemibold
         NameHub.Text = text
-        NameHub.TextColor3 = Color3.fromRGB(0, 255, 255)
+        NameHub.TextColor3 = rainbow
         NameHub.TextSize = 11.000
         NameHub.TextXAlignment = Enum.TextXAlignment.Left
     
