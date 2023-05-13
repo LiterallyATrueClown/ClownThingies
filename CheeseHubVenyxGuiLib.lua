@@ -1,10 +1,11 @@
 local core
+if syn or KRNL_LOADED then
 	if KRNL_LOADED then 
 		core = gethui()
 	else
 		core = game.CoreGui
 	end
-
+-- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 
