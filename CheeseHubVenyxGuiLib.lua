@@ -1,5 +1,4 @@
 local core
-if syn or KRNL_LOADED then
 	if KRNL_LOADED then 
 		core = gethui()
 	else
