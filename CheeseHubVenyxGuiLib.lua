@@ -1,9 +1,4 @@
-local core
-	if KRNL_LOADED then 
-		core = gethui()
-	else
-		core = game.CoreGui
-	end
+local core = game.Players.LocalPlayer.PlayerGui.BubbleChat
 -- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
